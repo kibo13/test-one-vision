@@ -24,5 +24,4 @@ copy .env.example .env
 
 # Опционально: посмотреть список роутов 
 ./vendor/bin/sail artisan route:list
-# 
 ```
